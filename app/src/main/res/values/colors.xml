@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wallpaperprimary">#111C56</color>
+    <color name="navBarColor">#FFFFFF</color>
+    <color name="genBackgroundColor">#242C33</color>
+</resources>

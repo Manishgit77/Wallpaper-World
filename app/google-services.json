@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979552447571",
+    "project_id": "wallpaperfirestore-a9fa2",
+    "storage_bucket": "wallpaperfirestore-a9fa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979552447571:android:c52874b106b4a8b6862aa6",
+        "android_client_info": {
+          "package_name": "com.softapp.thewallpapertimes534965647"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_Ej4p9Xtr7cJLUpHboTmsI5u1UTN1qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
